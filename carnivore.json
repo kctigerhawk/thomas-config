@@ -19,7 +19,7 @@
     "recent_low": 0.0,
     "stop": 0.0,
     "active": false,
-    "scale": true,
+    "scale": false,
     "scale_percent": 1.0,
     "scale_interval": 0.0
   }
