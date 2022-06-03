@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "symbol": "",
+    "open_price": 0.0,
+    "target_1": 0.0,
+    "target_2": 0.0,
+    "recent_low": 0.0,
+    "stop": 0.0,
+    "active": false,
+    "scale": true,
+    "scale_percent": 1.0,
+    "scale_interval": 0.0
+  },
+  {
+    "symbol": "",
+    "open_price": 0.0,
+    "target_1": 0.0,
+    "target_2": 0.0,
+    "recent_low": 0.0,
+    "stop": 0.0,
+    "active": false,
+    "scale": true,
+    "scale_percent": 1.0,
+    "scale_interval": 0.0
+  }
+]
